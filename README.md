@@ -1,2 +1,2 @@
 # FiSiKo Dashboard
-Dashboard in React collegata a Firebase (`fisiko-app`).
+Dashboard React collegata a Firebase (`fisiko-app`).
