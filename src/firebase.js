@@ -6,7 +6,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyCBc0MZggkCgkz-lk-B85Cg6ve6QYjI6k0",
   authDomain: "fisiko-app.firebaseapp.com",
   projectId: "fisiko-app",
-  storageBucket: "fisiko-app.firebasestorage.app",
+  storageBucket: "fisiko-app.appspot.com",
   messagingSenderId: "801160176437",
   appId: "1:801160176437:web:0ccad00ef2fe191894a27c"
 };
